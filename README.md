@@ -52,6 +52,9 @@ The architecture uses an Amazon VPC with resources distributed across multiple A
 
 ## Scalability and High Availability
 
+<img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/af23e16b-ef8d-4f32-873d-b0bdb99a8e6c" />
+
+
 The architecture is designed to provide:
 
 * **High availability** by distributing resources across multiple Availability Zones.
